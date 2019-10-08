@@ -18,11 +18,11 @@ This repo contains files associated with the **rOpenSci** review of
 
 ## **Reviewer:** [\@jromanowska](https://github.com/jromanowska)
 ### Review Submitted:
-**`r cat(sprintf("**Last updated:** %s", Sys.Date()))`**
+`r cat(sprintf("**Last updated:** %s", Sys.Date()))`
 
 <br>
 
-### see the review report [here:](https://jromanowska.github.io/workloopR-review/index.nb.html)
+### see the review report [here:](https://jromanowska.github.io/workloopR-review/index.html)
 
 or view the submitted review to rOpenSci [here:](https://github.com/jromanowska/workloopR-review/blob/master/pkgreview.md)
 

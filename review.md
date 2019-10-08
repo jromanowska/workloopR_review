@@ -70,4 +70,4 @@ In general, the authors made a very good job in structuring the code, commenting
   * using both, "<-" and "=" is discouraged
   * change `sapply` to `vapply`, change `1:length()` to `seq_along`
 
-Check also the [repo](https://github.com/jromanowska/workloopR_review), generated with the `pkgreviewr` for detailed output of testing.
+Check also the [output](https://jromanowska.github.io/workloopR_review/) generated with the `pkgreviewr` for details on testing and automated checks.

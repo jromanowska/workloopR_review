@@ -29,7 +29,7 @@ library(devtools)
 ## **Reviewer:** [\@jromanowska](https://github.com/jromanowska)
 
 ### Review Submitted:
-**`r cat(sprintf("**Last updated:** %s", Sys.Date()))`**
+`r cat(sprintf("**Last updated:** %s", Sys.Date()))`
 
 ***
 
