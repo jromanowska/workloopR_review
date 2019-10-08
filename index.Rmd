@@ -37,7 +37,7 @@ library(devtools)
 
 This report contains documents associated with the review of **rOpenSci** submitted package:
 
-### **`workloopR`: ropensci/software-review**  issue [\#NA](https://github.com/ropensci/onboarding/issues/).
+### **`workloopR`: ropensci/software-review**  issue [\#326](https://github.com/ropensci/software-review/issues/326).
 
 <br>
 

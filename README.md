@@ -9,7 +9,7 @@ output: github_document
 
 This repo contains files associated with the **rOpenSci** review of
 
-### **`workloopR`: ropensci/software-review**  issue [\#NA](https://github.com/ropensci/onboarding/issues/).
+### **`workloopR`: ropensci/software-review**  issue [\#326](https://github.com/ropensci/software-review/issues/326).
 
 <br>
 
